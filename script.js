@@ -3,7 +3,7 @@ const gifStages = [
     "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2E0Mmt0a3Z0Ymd1MXlyOXVrcW94Y2g4aGdtZmpkYmxkZm9rbThvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UB2ZvUIGiPkTaYlKlM/giphy.gif",  // 1 confused
     "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTUwaDlkbnhlNHZmYXUwMjhjbndtaDUxem9tZnlweHFncWJ2ZGMxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CQiLc95c51LGGQzK3u/giphy.gif",             // 2 pleading
     "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzRzdGhzcTZkdWN4YXp1MDkwaHgyNnUxazVocGZlczBpY2JpYmVocSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oHhddAMu0cvhqy6J0m/giphy.gif",             // 3 sad
-    "https://media1.tenor.com/m/WGfra-Y_Ke0AAAAd/chiikawa-sad.gif",       // 4 sadder
+    "https://https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXhuaWh0YnN5ZW0yemFjaGlrMDZ2ZjQ3MjhlNnJwODZ4aTM0aG8yeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GFcjni0hIBOmV2Zpbi/giphy.gif",       // 4 sadder
     "https://media.tenor.com/CivArbX7NzQAAAAj/somsom1012.gif",             // 5 devastated
     "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FuOXlsbmVvbXF6dm5jenQzaDJ5YnVlbDVmamo3M2MwcWl0ajkzYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zKvicd1ot8KpY28LMJ/giphy.gif",               // 6 very devastated
     "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHdjczlvNXk5Z203eGw5cXhyYThkOXB2eTRsbGkzd2g3bGRhcjEzciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A7XMZLogYudzjkZAjJ/giphy.gif"  // 7 crying runaway
